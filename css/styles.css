@@ -1,0 +1,167 @@
+header{
+  width: 1506px;
+}
+nav{
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+.header-item{
+  width: 600px;
+}
+.navigation-links{
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
+}
+
+/* Promo Section */
+
+.promo-section{
+  width: 100%;
+  background-color: #252420;
+}
+.promo-box{
+  width: 387px;
+  height: 328px;
+  background-color: red;
+  color: white;
+}
+.promo-divider{
+  width: 80px;
+  height: 3px;
+  background-color: #FF7500;
+}
+.promo-title{
+  font-size: 40px;
+  letter-spacing: .5px;
+  line-height: 120%;
+  font-weight: bold;
+}
+.promo-lead{
+  font-size: 16px;
+  letter-spacing: .5px;
+  line-height: 1.5;
+}
+.promo-button{
+  width: 150px;
+  height: 39px;
+  text-decoration: none;
+  color: white;
+  background-color: #FF7500;
+}
+.promo-image{
+  width: 510px;
+  height: 510px;
+  object-fit: cover;
+}
+/* Information Section */
+
+.information-section{
+  width: 1440px;
+  height: 935px;
+}
+.information-divider{
+  width: 80px;
+  height: 3px;
+  background-color: #FF7500;
+}
+.information-subtitle{
+  font-size: 72px;
+  line-height: 120%;
+  letter-spacing: .5px;
+  font: bold;
+}
+.information-box{
+  width: 1100px;
+  height: 245px;
+}
+.information-items{
+  width: 340px;
+  height: 245px;
+}
+.image-box{
+  width: 100px;
+  height: 100px;
+  background-color: #ff77002d;
+}
+.picture{
+  width: 56px;
+  height: 56px;
+}
+.items-heading{
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+.lead-info{
+  font-size: 16px;
+  font-weight: normal;
+  letter-spacing: .5px;
+  line-height: 1.5;
+}
+
+/* Anons Section */
+
+.anons-section{
+  width: 1100px;
+  background-color: #252420;
+}
+.anons-text{
+  width: 440px;
+  height: 291px;
+  color: white;
+}
+.anons-subtitle{
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: .5px;
+  font-weight: bold;
+}
+.anons-sub-lead{
+  font-size: 17px;
+  line-height: 140%;
+}
+.anons-button{
+  color: white;
+  background-color: #FF7500;
+  font-size: 16px;
+}
+footer{
+  width: 100%;
+}
+footer > ul {
+  list-style: none;
+}
+.footer-divider{
+  height: 3px;
+  background-color: #252420;
+  opacity: 50%;
+}
+.footer-icon{
+  width: 107px;
+  height: 24px;
+}
+.footer-card{
+  width: 224px;
+}
+.card li {
+  list-style: none;
+}
+.card > li > a{
+  text-decoration: none;
+  color: #252420;
+  font-size: 16px;
+}
+.footer-card-info{
+  width: 224px;
+}
+.footer-price{
+  width: 224px;
+}
+.footer-select{
+  width: 224px;
+}
